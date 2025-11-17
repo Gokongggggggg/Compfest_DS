@@ -1,6 +1,6 @@
 ## 🏆 Competition Result: COMPFEST 17 Data Science Academy Selection
 
-This forecasting project was the core of our submission for the **[Seleksi Data Science Academy COMPFEST 17](https://www.kaggle.com/competitions/seleksi-dsa-compfest-17)**, a national-level data science competition hosted on Kaggle.
+This forecasting project was the core of our submission for the **[Seleksi Data Science Academy COMPFEST 17](https://www.kaggle.com/competitions/seleksi-dsa-compfest-17/leaderboard)**, a national-level data science competition hosted on Kaggle.
 
 ### 🎯 Problem Context
 The challenge was to build a predictive model to forecast daily electricity consumption (in GWh). This forecast had to be based on historical weather data (like temperature, solar radiation, wind speed) and time-series data (date, month, year) across various regional clusters.
